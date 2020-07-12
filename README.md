@@ -57,40 +57,34 @@
 #### Wireframes
 
 ##### Desktop view #1
-
 ![](assets/D1.PNG)
 
 ##### Desktop view #2
-
 ![](assets/D2.png)
 
 ##### Desktop view #3
-
 ![](assets/D3.png)
 
 ##### Desktop view #4
-
 ![](assets/D4.png)
 
 ##### Desktop view #5
-
 ![](assets/D5.png)
 
 ##### Desktop view #6
-
 ![](assets/D6.png)
 
-|##### mobile view #1 | ##### mobile view #2|
+##### mobile view #1 
+![](assets/m1.PNG)
 
-|![](assets/m1.png)|![](assets/m2.png)|
+##### mobile view #2
+![](assets/m2.PNG)
 
 ##### mobile view #3
-
-![](assets/m3.png)
+![](assets/m3.PNG)
 
 ##### mobile view #4
-
-![](assets/m4.png)
+![](assets/m4.PNG)
 
 ##### Component Tree
 
