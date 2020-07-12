@@ -99,7 +99,6 @@
 
 #### Component Tree
 
-> Use this section to display the structure of how your React components are being rendered. This should show the parent to child relation between you components. In other words, show which components are rendering the other components.
 
 #### Component Hierarchy
 
@@ -115,11 +114,12 @@ src
       |__ settings.component.jsx
       |__ edit-profile.component.jsx
       |__ add-partcipants.component.jsx
-      
+      |__ chat-screen.component
 |__ services/
     |__ apiHelper.js
     |__ user.js
     |__ auth.js
+
 ```
 
 #### Component Breakdown
