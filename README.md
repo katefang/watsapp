@@ -57,7 +57,7 @@
 #### Wireframes
 
 ##### Desktop view #1
-![](assets/D1.PNG | width=100)
+![](assets/D1.PNG =50x100)
 
 ##### Desktop view #2
 ![](assets/D2.png)
