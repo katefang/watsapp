@@ -82,11 +82,11 @@
 
 ##### mobile view #1
 
-<img src="assets/m1.PNG" width="300"/>
+<img src="assets/m1.PNG" width="300" display="inline"/>
 
 ##### mobile view #2
 
-<img src="assets/2.PNG" width="300"/>
+<img src="assets/m2.PNG" width="300" display="inline"/>
 
 ##### mobile view #3
 
