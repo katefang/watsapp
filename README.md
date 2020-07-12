@@ -1,4 +1,4 @@
-# wazzapp
+# Wazzapp
 
 <br/>
 
@@ -48,7 +48,7 @@
 |      React      | _Will use React for the front end_                  |
 |  React Router   | _Route Users to different pages_                    |
 | React Bootstrap | _Will use Bootstrap to speed up front end building_ |
-|     Express     | _Will use rails for the backend_                    |
+|      Rails      | _Will use rails for the backend_                    |
 
 <br>
 
@@ -56,47 +56,43 @@
 
 #### Wireframes
 
-##### Desktop view #1
+#### Desktop view #1
 
 ![](assets/D1.png)
 
-##### Desktop view #2
+#### Desktop view #2
 
 ![](assets/D2.png)
 
-##### Desktop view #3
+#### Desktop view #3
 
 ![](assets/D3.png)
 
-##### Desktop view #4
+#### Desktop view #4
 
 ![](assets/D4.png)
 
-##### Desktop view #5
+#### Desktop view #5
 
 ![](assets/D5.png)
 
-##### Desktop view #6
+#### mobile view #1
 
-![](assets/D6.png)
+<img src="assets/m1.PNG" width="300"/>
 
-##### mobile view #1
+#### mobile view #2
 
-<img src="assets/m1.PNG" width="300" display="inline"/>
+<img src="assets/m2.PNG" width="300"/>
 
-##### mobile view #2
-
-<img src="assets/m2.PNG" width="300" display="inline"/>
-
-##### mobile view #3
+#### mobile view #3
 
 <img src="assets/m3.PNG" width="300"/>
 
-##### mobile view #4
+#### mobile view #4
 
 <img src="assets/m4.PNG" width="300"/>
 
-##### Component Tree
+#### Component Tree
 
 > Use this section to display the structure of how your React components are being rendered. This should show the parent to child relation between you components. In other words, show which components are rendering the other components.
 
@@ -107,13 +103,10 @@
 ```structure
 
 src
-|__ assets/
-      |__ fonts
-      |__ graphics
-      |__ images
-      |__ mockups
+|__ images
 |__ components/
       |__ Header.jsx
+      |__
 |__ services/
 
 ```
