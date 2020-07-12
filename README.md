@@ -56,35 +56,34 @@ _**Wazzapp**, as you can infer from the name, is an atempted replicate of Whatsa
 
 #### Wireframes
 
-> Use the Wireframes section to display desktop, tablet and mobile views. No hand-drawn wireframes. Use a tool like wireframe.cc, Whimsical or AdobeXD
+##### Desktop view #1
+![](assets/D1.png)
 
-![](assets/D1)
-- Desktop view #1
+##### Desktop view #2
+![](assets/D2.png)
 
-![](assets/D2)
-- Desktop view #2
+##### Desktop view #3
+![](assets/D3.png)
 
-![](assets/D3)
-- Desktop view #3
+##### Desktop view #4
+![](assets/D4.png)
 
-![](assets/D4)
-- Desktop view #4
+##### Desktop view #5
+![](assets/D5.png)
 
-![](assets/D5)
-- Desktop view #5
+##### Desktop view #6
+![](assets/D6.png)
 
-![](assets/D6)
-- Desktop view #6
+|##### mobile view #1 | ##### mobile view #2|
+|![](assets/m1.png)|![](assets/m2.png)|
 
-|![](assets/m1)|![](assets/m2)|
-|- mobile view #1|- mobile view #2|
+##### mobile view #3
+![](assets/m3.png)
 
-![](assets/m3)
-- mobile view #3
+##### mobile view #4
+![](assets/m4.png)
 
-![](assets/m4)
-- mobile view #4
-#### Component Tree
+##### Component Tree
 
 > Use this section to display the structure of how your React components are being rendered. This should show the parent to child relation between you components. In other words, show which components are rendering the other components. 
 
