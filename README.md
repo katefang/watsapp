@@ -1,6 +1,6 @@
 # wazzapp
 
-<br/> 
+<br/>
 
 - [Overview](#overview)
 - [MVP](#mvp)
@@ -22,14 +22,14 @@
 
 ## Overview
 
-**Wazzapp**, as you can infer from the name, is an atempted replicate of Whatsapp.
+**Wazzapp**, as you can infer from the name, is an attempted replicate of Whatsapp.
 
 <br>
 
 ## MVP
 
-- Users will be able to create chat groups with/without group names 
-- Users will be able to delete chat groups or leave chatgroups.  
+- Users will be able to create chat groups with/without group names
+- Users will be able to delete chat groups or leave chat groups.
 
 <br>
 
@@ -43,12 +43,12 @@
 
 > Use this section to list all supporting libraries and dependencies, and their role in the project. Below is an example - this needs to be replaced!
 
-|     Library      | Description                                |
-| :--------------: | :----------------------------------------- |
-|      React       | _Will use React for the front end_ |
-|   React Router   | _Route Users to different pages_ |
-| React Bootstrap  | _Will use Bootstrap to speed up front end building_|
-|     Express      | _Will use rails for the backend_ |
+|     Library     | Description                                         |
+| :-------------: | :-------------------------------------------------- |
+|      React      | _Will use React for the front end_                  |
+|  React Router   | _Route Users to different pages_                    |
+| React Bootstrap | _Will use Bootstrap to speed up front end building_ |
+|     Express     | _Will use rails for the backend_                    |
 
 <br>
 
@@ -57,44 +57,54 @@
 #### Wireframes
 
 ##### Desktop view #1
+
 ![](assets/D1.png)
 
 ##### Desktop view #2
+
 ![](assets/D2.png)
 
 ##### Desktop view #3
+
 ![](assets/D3.png)
 
 ##### Desktop view #4
+
 ![](assets/D4.png)
 
 ##### Desktop view #5
+
 ![](assets/D5.png)
 
 ##### Desktop view #6
+
 ![](assets/D6.png)
 
-##### mobile view #1 
-![](assets/m1.PNG =250x250)
+##### mobile view #1
+
+![](assets/m1.PNG)
 
 ##### mobile view #2
-![](assets/m2.PNG =250x250)
+
+![](assets/m2.PNG)
 
 ##### mobile view #3
+
 ![](assets/m3.PNG)
 
 ##### mobile view #4
-![](assets/m4.PNG)
+
+<img src="assets/m4.PNG" width="100"/>
 
 ##### Component Tree
 
-> Use this section to display the structure of how your React components are being rendered. This should show the parent to child relation between you components. In other words, show which components are rendering the other components. 
+> Use this section to display the structure of how your React components are being rendered. This should show the parent to child relation between you components. In other words, show which components are rendering the other components.
 
 #### Component Hierarchy
 
-> Use this section to define your React components and the data architecture of your app. This should be a reflection of how you expect your directory/file tree to look like. 
+> Use this section to define your React components and the data architecture of your app. This should be a reflection of how you expect your directory/file tree to look like.
 
-``` structure
+```structure
 
 src
 |__ assets/
@@ -142,13 +152,13 @@ src
 
 <br>
 
-***
+---
 
 ## Post-MVP
 
 > Use this section to document ideas you've had that would be fun (or necessary) for your Post-MVP. This will be helpful when you return to your project after graduation!
 
-***
+---
 
 ## Code Showcase
 
