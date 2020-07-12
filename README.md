@@ -75,10 +75,10 @@
 ![](assets/D6.png)
 
 ##### mobile view #1 
-![](assets/m1.PNG)
+![](assets/m1.PNG =250x250)
 
 ##### mobile view #2
-![](assets/m2.PNG)
+![](assets/m2.PNG =250x250)
 
 ##### mobile view #3
 ![](assets/m3.PNG)
