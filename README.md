@@ -82,19 +82,19 @@
 
 ##### mobile view #1
 
-![](assets/m1.PNG)
+<img src="assets/m1.PNG" width="200"/>
 
 ##### mobile view #2
 
-![](assets/m2.PNG)
+<img src="assets/2.PNG" width="200"/>
 
 ##### mobile view #3
 
-![](assets/m3.PNG)
+<img src="assets/m3.PNG" width="200"/>
 
 ##### mobile view #4
 
-<img src="assets/m4.PNG" width="100"/>
+<img src="assets/m4.PNG" width="200"/>
 
 ##### Component Tree
 
