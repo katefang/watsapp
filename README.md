@@ -95,9 +95,13 @@
 
 <img src="assets/m4.PNG" width="300"/>
 
+#### mobile view #5
+
+<img src="assets/m5.PNG" width="300"/>
+
+
 #### Component Tree
 
-> Use this section to display the structure of how your React components are being rendered. This should show the parent to child relation between you components. In other words, show which components are rendering the other components.
 
 #### Component Hierarchy
 
@@ -108,9 +112,16 @@
 src
 |__ images
 |__ components/
-      |__ Header.jsx
-      |__
+      |__ header.component.jsx
+      |__ chat-list.component.jsx 
+      |__ settings.component.jsx
+      |__ edit-profile.component.jsx
+      |__ add-partcipants.component.jsx
+      |__ chat-screen.component
 |__ services/
+    |__ apiHelper.js
+    |__ user.js
+    |__ auth.js
 
 ```
 
