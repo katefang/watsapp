@@ -58,7 +58,7 @@
 
 ##### Desktop view #1
 
-![](assets/D1.png)
+![](./assets/D1.png)
 
 ##### Desktop view #2
 
