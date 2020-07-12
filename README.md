@@ -1,6 +1,6 @@
-# watsapp
+# wazzapp
 
-<hr/> 
+<br/> 
 
 - [Overview](#overview)
 - [MVP](#mvp)
@@ -22,26 +22,20 @@
 
 ## Overview
 
-_**Project Title** is lorem ipsum dolor sit amet. Phasellus dapibus fermentum risus vitae bibendum. Integer vel ipsum mollis odio sollicitudin ornare eu vel ex. In quis fringilla velit, ac maximus quam. Etiam eget placerat neque. Aenean faucibus sem non nisi lobortis ullamcorper._
-
+_**Wazzapp**, as you can infer from the name, is an atempted replicate of Whatsapp.
 
 <br>
 
 ## MVP
 
-> The Minimum Viable Product should be a well-planned, easily-communicated product, ensuring that the client's deliverable will be achievable and meet specifications within the time frame estimated.
-
-_The **Project Title** MVP lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus dapibus fermentum risus vitae bibendum. Integer vel ipsum mollis odio sollicitudin ornare eu vel ex. In quis fringilla velit, ac maximus quam. Etiam eget placerat neque. Aenean faucibus sem non nisi lobortis ullamcorper._
+- Users will be able to create chat groups with/without group names 
+- Users will be able to delete chat groups or leave chatgroups.  
 
 <br>
 
 ### Goals
 
-- _Lorem ipsum, dolor sit amet,_
-- _consectetur adipiscing elit._
-- _Phasellus dapibus fermentum risus vitae bibendum._
-- _Integer vel ipsum mollis odio sollicitudin ornare eu vel ex._
-- _etc._
+- _Wazzap will very closely resemble Whatsapp_
 
 <br>
 
@@ -51,11 +45,10 @@ _The **Project Title** MVP lorem ipsum dolor sit amet, consectetur adipiscing el
 
 |     Library      | Description                                |
 | :--------------: | :----------------------------------------- |
-|      React       | _Lorem ipsum dolor sit amet, consectetur._ |
-|   React Router   | _Lorem ipsum dolor sit amet, consectetur._ |
-| React SemanticUI | _Lorem ipsum dolor sit amet, consectetur._ |
-|     Express      | _Lorem ipsum dolor sit amet, consectetur._ |
-|  Express Router  | _Lorem ipsum dolor sit amet, consectetur._ |
+|      React       | _Will use React for the front end_ |
+|   React Router   | _Route Users to different pages_ |
+| React Bootstrap  | _Will use Bootstrap to speed up front end building_|
+|     Express      | _Will use rails for the backend_ |
 
 <br>
 
@@ -65,30 +58,32 @@ _The **Project Title** MVP lorem ipsum dolor sit amet, consectetur adipiscing el
 
 > Use the Wireframes section to display desktop, tablet and mobile views. No hand-drawn wireframes. Use a tool like wireframe.cc, Whimsical or AdobeXD
 
-![Dummy Link](url)
+![](assets/D1)
+- Desktop view #1
 
-- Desktop Landing
+![](assets/D2)
+- Desktop view #2
 
-![Dummy Link](url)
+![](assets/D3)
+- Desktop view #3
 
-- Desktop Hero
+![](assets/D4)
+- Desktop view #4
 
-![Dummy Link](url)
+![](assets/D5)
+- Desktop view #5
 
-- Resource Index
+![](assets/D6)
+- Desktop view #6
 
-![Dummy Link](url)
+|![](assets/m1)|![](assets/m2)|
+|- mobile view #1|- mobile view #2|
 
-- Resource Show
+![](assets/m3)
+- mobile view #3
 
-![Dummy Link](url)
-
-- Tablet Resource Index
-
-![Dummy Link](url)
-
-- Mobile Resource Index
-
+![](assets/m4)
+- mobile view #4
 #### Component Tree
 
 > Use this section to display the structure of how your React components are being rendered. This should show the parent to child relation between you components. In other words, show which components are rendering the other components. 
