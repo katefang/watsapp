@@ -22,14 +22,14 @@
 
 ## Overview
 
-**Wazzapp**, as you can infer from the name, is an attempted replicate of Whatsapp.
+**Wazzapp**, as you can infer from the name, is an attempted replica of Whatsapp.
 
 <br>
 
 ## MVP
 
-- Users will be able to create chat groups with/without group names
-- Users will be able to delete chat groups or leave chat groups.
+- User CRUD
+- Chat groups CRUD
 
 <br>
 
@@ -49,6 +49,9 @@
 |  React Router   | _Route Users to different pages_                    |
 | React Bootstrap | _Will use Bootstrap to speed up front end building_ |
 |      Rails      | _Will use rails for the backend_                    |
+|      Rails      | _Will use rails for the backend_                    |
+|     Bcrypt      | _User Encryption_                                   |
+|       JWT       | _User Auth_                                         |
 
 <br>
 
