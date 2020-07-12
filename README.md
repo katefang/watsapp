@@ -22,7 +22,7 @@
 
 ## Overview
 
-_**Wazzapp**, as you can infer from the name, is an atempted replicate of Whatsapp.
+**Wazzapp**, as you can infer from the name, is an atempted replicate of Whatsapp.
 
 <br>
 
@@ -57,30 +57,39 @@ _**Wazzapp**, as you can infer from the name, is an atempted replicate of Whatsa
 #### Wireframes
 
 ##### Desktop view #1
+
 ![](assets/D1.png)
 
 ##### Desktop view #2
+
 ![](assets/D2.png)
 
 ##### Desktop view #3
+
 ![](assets/D3.png)
 
 ##### Desktop view #4
+
 ![](assets/D4.png)
 
 ##### Desktop view #5
+
 ![](assets/D5.png)
 
 ##### Desktop view #6
+
 ![](assets/D6.png)
 
 |##### mobile view #1 | ##### mobile view #2|
+
 |![](assets/m1.png)|![](assets/m2.png)|
 
 ##### mobile view #3
+
 ![](assets/m3.png)
 
 ##### mobile view #4
+
 ![](assets/m4.png)
 
 ##### Component Tree
