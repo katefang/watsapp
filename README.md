@@ -105,8 +105,6 @@
 
 #### Component Hierarchy
 
-> Use this section to define your React components and the data architecture of your app. This should be a reflection of how you expect your directory/file tree to look like.
-
 ```structure
 
 src
@@ -125,8 +123,6 @@ src
 ```
 
 #### Component Breakdown
-
-> Use this section to go into further depth regarding your components, including breaking down the components as stateless or stateful, and considering the passing of data between those components.
 
 |    Component     |    Type    | state | props | Description                                    |
 | :--------------: | :--------: | :---: | :---: | :--------------------------------------------- |
